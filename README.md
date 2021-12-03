@@ -1,2 +1,1 @@
 # SQL_queries_via_Pandahouse_and_further_analysis
-# SQL_queries_via_Pandahouse_and_further_analysis
